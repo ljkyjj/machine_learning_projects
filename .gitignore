@@ -5,9 +5,9 @@ retrieval_augmented_generation/shared_data/*.gguf
 retrieval_augmented_generation/shared_data/*.bin
 retrieval_augmented_generation/shared_data/*.safetensors
 
-# Test data files (optional - uncomment if you don't want to share test data)
-# retrieval_augmented_generation/shared_data/public.txt
-# retrieval_augmented_generation/shared_data/private.txt
+# Test data files - exclude from repository
+retrieval_augmented_generation/shared_data/public.txt
+retrieval_augmented_generation/shared_data/private.txt
 
 # Python cache files
 __pycache__/
