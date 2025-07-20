@@ -96,15 +96,6 @@ python3 start_local.py
 - **Local CPU Version**: Development testing, offline use, privacy-sensitive scenarios
 - **Colab GPU Version**: Rapid prototyping, batch processing, cloud deployment
 
-## 📞 Technical Support / 技术支持 / テクニカルサポート
-
-For issues, please check the corresponding version's README documentation or contact the developer.
-
-如有问题，请查看对应版本的README文档或联系开发者。
-
-問題がある場合は、対応するバージョンのREADMEドキュメントを確認するか、開発者にお問い合わせください。
-
----
 
 ## 📚 Academic Reference / 学术参考 / 学術参考
 
