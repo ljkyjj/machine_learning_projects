@@ -1,0 +1,17 @@
+# 本地CPU版本的依赖包
+# Local CPU version dependencies
+
+# LLM相关
+llama-cpp-python==0.3.4
+
+# 网络搜索相关
+googlesearch-python
+beautifulsoup4
+charset-normalizer
+requests-html
+lxml
+
+# 其他工具
+urllib3
+pathlib
+asyncio 
